@@ -1,0 +1,14 @@
+version: 1
+services:
+  - type: web
+    name: Food Tracker - Calorie Scanner
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm run start
+    publish: dist
+    routes:
+      - src: /post/(.*)      # Match all /post routes
+        dest: /index.html     # Serve index.html for all /post routes
+      - src: /.*              # Match all other routes
+        dest: /index.html     # Serve index.html for all other routes

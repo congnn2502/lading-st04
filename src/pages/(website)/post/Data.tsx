@@ -1,0 +1,251 @@
+import { IPosts } from "@/common/types/IPosts";
+
+export const data: IPosts[] = [
+  {
+    id: 1,
+    title: "Whole Food Nutrition and Calorie Tracker",
+    shortContent: [
+      "🥑 Comprehensive whole food nutrition and calorie tracker with visual recognition, personalized goals, and detailed insights.",
+    ],
+    longContent: [
+      "📸 **Identify 470+ foods with your camera**: Use the app's advanced image recognition to instantly identify various foods. Whether it's fresh produce, packaged items, or home-cooked meals, simply snap a picture, and the app will log the item for you. This eliminates manual entry and speeds up the tracking process.",
+      "📊 **Track whole food calories and nutrition**: Gain access to a full nutritional profile of the foods you consume, including calories, macronutrients (carbs, fats, proteins), and micronutrients (vitamins and minerals). This helps you keep track of not just calorie intake but also the overall quality of your diet.",
+      "🏆 **Set food-specific and category-specific goals**: Whether you're aiming to increase your intake of leafy greens or reduce your consumption of processed foods, you can set personalized goals by food categories. For example, you can aim to eat more fruits, reduce sugar, or increase fiber in your diet.",
+      "📔 **Create a visual food diary**: Maintain a daily log of your meals with a visual food diary. By taking pictures of your meals and snacks, you'll not only keep track of what you're eating but also become more aware of portion sizes and presentation, which can aid in mindful eating.",
+      "📈 **Get trends over time and learn about your food habits**: Track your eating patterns over weeks, months, or years. The app generates charts and insights to help you understand how your eating habits evolve over time. Are you eating more fruits and vegetables? Is your protein intake balanced? These insights allow for better long-term health planning.",
+      "🔎 **Discover new foods on your way to completing the Nutridex**: Expand your food knowledge by trying out new, healthy options. The Nutridex is a built-in food exploration system that encourages users to discover and log foods they’ve never eaten before. Each new discovery helps complete your Nutridex score, making the journey to healthy eating more engaging.",
+      "🥗 **Learn about the nutritional values of different foods**: Tap into a vast database of whole foods and learn the detailed nutritional breakdown of each item. From everyday fruits and vegetables to less common grains and seeds, you can educate yourself about their health benefits, helping you make informed choices.",
+      "🍽️ **Enjoy personalized meal recommendations based on your preferences**: Based on your dietary habits, food goals, and personal preferences (e.g., vegetarian, gluten-free, low-carb), the app will suggest meals that match your nutritional needs. This feature helps save time when planning meals while ensuring they align with your health objectives.",
+      "📱 **Sync with fitness trackers to monitor your physical activity**: The app integrates seamlessly with fitness trackers like Fitbit, Apple Health, and Google Fit. This enables a holistic approach to health by linking physical activity with dietary intake, providing a complete view of your caloric balance and fitness progress.",
+      "🌟 **Custom reminders and motivational prompts**: Set reminders for meals, water intake, or to log your food at specific times of the day. Additionally, receive motivational messages to stay on track with your nutrition and fitness goals.",
+      "👥 **Community-driven challenges and support**: Join a community of like-minded individuals who share their progress, tips, and recipes. Participate in group challenges, such as 'Eat more greens' or 'Reduce sugar intake,' and support each other in reaching healthier eating goals.",
+      "📅 **Daily, weekly, and monthly reports**: Generate detailed reports on your nutritional intake and eating patterns, helping you review your progress and adjust your habits for better health outcomes. These reports are easily shareable with nutritionists or personal trainers.",
+      "🔄 **Offline mode and cloud sync**: Use the app in offline mode while traveling or in areas without internet connectivity. Once you're back online, all your data will sync with the cloud, ensuring your progress is always saved and accessible across devices.",
+    ],
+    createdAt: "2024-10-20T08:30:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 2,
+    title: "Track your daily nutrition effortlessly",
+    shortContent: [
+      "🍏 Effortlessly track your daily nutrition with quick logging and personalized goals.",
+    ],
+    longContent: [
+      "📖 **Log your meals and snacks quickly**: Easily input the food you eat throughout the day with a streamlined logging system. The app offers a user-friendly interface, allowing you to select food items from a comprehensive database or input custom meals, all in just a few taps. Additionally, you can save frequently eaten meals for quicker logging in the future.",
+      "🔔 **Get reminders for your meals**: Stay on top of your nutrition by setting meal logging reminders. Customize notification intervals for breakfast, lunch, dinner, and snacks. You can even set hydration reminders to help you track your water intake throughout the day.",
+      "🎯 **Set daily nutrition goals**: Tailor your daily goals for calories, macronutrients (proteins, carbs, fats), fiber, and micronutrients like vitamins and minerals. These goals can be dynamically adjusted based on your activity level, personal health targets, and the app's recommendations, ensuring you're always on track.",
+      "📊 **View your nutrition history**: Access detailed logs of past meals and analyze your nutrition trends over time. The app breaks down your data into daily, weekly, and monthly views, allowing you to identify areas of improvement and track how your diet has evolved.",
+      "📝 **Keep a personalized food diary**: Use the food diary feature to document more than just the nutritional facts—record your thoughts, feelings, and energy levels to understand how different foods affect your overall well-being. The diary can be customized with photos and additional notes.",
+      "💪 **Monitor your progress toward your goals**: See how close you are to hitting your daily or weekly nutrition targets, and receive real-time feedback on where adjustments may be needed. Visual progress bars and graphs help you stay motivated.",
+      "📆 **Plan your meals ahead of time**: Use the meal planning feature to schedule meals for the coming days or weeks, reducing the chances of making unhealthy choices in the moment. You can also set meal prep reminders to ensure you're ready for the week ahead.",
+      "👥 **Share your progress with friends for motivation**: Connect with friends within the app, and share your meal logs and nutrition goals to stay motivated. You can encourage each other through comments, challenges, and progress comparisons.",
+      "🎉 **Join challenges to keep you engaged in your nutrition journey**: Stay motivated by participating in community challenges designed to help you hit nutrition goals, such as eating more vegetables, reducing sugar, or meeting hydration targets. Earn badges and rewards for completing challenges.",
+    ],
+    createdAt: "2024-10-05T09:15:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 3,
+    title: "Achieve your fitness goals with our app",
+    shortContent: [
+      "🌟 Achieve your fitness goals by combining expert advice and personalized tracking.",
+    ],
+    longContent: [
+      "💡 **Get expert tips on nutrition and fitness**: Receive personalized fitness and nutrition advice from certified trainers and dietitians, all tailored to your current health status and future goals. The app provides tips on everything from pre-workout nutrition to post-workout recovery, helping you optimize your overall health journey.",
+      "🏃‍♂️ **Track your workouts alongside your meals**: Integrate your fitness tracking with meal logging to get a complete picture of your health. Log exercises, from cardio to strength training, and see how your caloric burn impacts your daily nutritional needs.",
+      "📊 **Analyze your performance over time**: Get detailed reports and visual graphs of your fitness and nutrition progress. The app tracks metrics like weight, muscle mass, endurance, and strength, showing you how far you've come. It also includes injury prevention tips based on your performance data.",
+      "🔑 **Access personalized coaching and feedback**: Take your fitness to the next level with real-time coaching and feedback. The app’s AI analyzes your workouts and provides instant feedback on form, intensity, and improvements to help you avoid injury and maximize results.",
+      "🌈 **Discover healthy recipes tailored to your dietary needs**: Browse through a curated selection of recipes that align with your fitness goals, whether you're aiming to bulk up, lean out, or maintain your current physique. The app categorizes recipes by macronutrient content and dietary preferences like keto, paleo, or vegetarian.",
+      "🧘‍♀️ **Explore mindfulness and wellness features**: Enhance your physical training with mindfulness exercises like guided meditation and breathing techniques. These activities help reduce stress, improve focus, and enhance your recovery post-workout.",
+      "📅 **Create a weekly meal plan with ease**: Plan out your meals for the week based on your fitness goals and personal preferences. The app suggests meals that match your calorie intake and macronutrient needs, ensuring a balanced diet that supports your training.",
+      "👩‍🍳 **Cook with confidence using our step-by-step guides**: Follow detailed, easy-to-understand recipe instructions that guide you through each step of cooking healthy meals. Video tutorials are available for more complex recipes, helping you build confidence in the kitchen.",
+      "🥳 **Celebrate milestones and achievements along your journey**: Keep track of your progress by marking key milestones such as completing a fitness challenge, hitting a weight loss goal, or mastering a new exercise. The app celebrates these achievements with badges, certificates, and community shout-outs.",
+    ],
+    createdAt: "2024-10-06T10:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 4,
+    title: "Your all-in-one food and fitness tracker",
+    shortContent: [
+      "🍽️ A comprehensive tool for tracking your food, workouts, and wellness.",
+    ],
+    longContent: [
+      "🌐 **Connect with a community of health enthusiasts**: Join an active community of users who share tips, recipes, and fitness advice. Participate in community discussions, ask questions, and exchange ideas on nutrition, fitness, and overall wellness.",
+      "📚 **Access a library of articles on nutrition and wellness**: Expand your knowledge with a vast library of expert-written articles on topics like balanced eating, fitness tips, weight loss, muscle building, mental health, and sustainable habits. New content is added regularly to keep you informed.",
+      "🔍 **Find restaurants that cater to your dietary preferences**: Use the app’s built-in restaurant finder to locate eateries that accommodate your specific dietary restrictions, such as gluten-free, vegan, or low-carb options. Ratings and reviews help you pick the best spots for healthy eating while dining out.",
+      "📈 **Use advanced analytics to refine your goals**: Leverage sophisticated tracking features that give you deeper insights into your health data. The app provides breakdowns on macronutrients, micronutrients, meal timing, and workout intensity, allowing you to fine-tune your approach to fitness and nutrition.",
+      "🤝 **Participate in group challenges and events**: Stay motivated by joining group challenges, fitness events, or nutrition-focused workshops. These community-based activities encourage accountability and provide a sense of camaraderie as you work toward your goals.",
+      "🏆 **Track your achievements and earn rewards**: Every step forward is celebrated. Track your progress across both fitness and nutrition, unlocking badges, rewards, and trophies for completing goals and hitting milestones.",
+      "📝 **Document your journey through notes and photos**: Keep a personal record of your transformation by logging photos and journaling about your experiences. Reflect on your journey and revisit past successes to stay inspired.",
+      "🔔 **Receive personalized notifications and encouragement**: Stay engaged with custom reminders, progress updates, and motivational messages. Whether it's a reminder to drink water, log a workout, or celebrate an achievement, the app keeps you connected to your goals.",
+      "🔒 **Ensure your data is secure and private**: With end-to-end encryption and privacy settings, your personal health data is secure. You control who sees your progress, whether it's your trainer, friends, or just you.",
+    ],
+    createdAt: "2024-10-06T11:30:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 5,
+    title: "Meal planning made simple",
+    shortContent: [
+      "🥗 Simplify your weekly meal planning with easy-to-use tools and recipe ideas.",
+    ],
+    longContent: [
+      "📅 **Create a weekly meal schedule effortlessly**: Plan your meals for the week with just a few clicks. The app provides templates and suggestions based on your preferences, so you can choose dishes for each day without spending hours on meal planning.",
+      "🛒 **Generate a shopping list based on your meals**: As you plan your meals, the app automatically compiles a grocery list of ingredients. You can customize the list, add or remove items, and even get it organized by aisle to make shopping quicker and easier.",
+      "👩‍🍳 **Discover new recipes every week**: The app suggests new recipes every week based on your past preferences and nutrition goals. With a diverse collection of meals, you’ll never get bored eating the same things.",
+      "🔄 **Easily swap meals if you change your mind**: Flexibility is key when it comes to meal planning. If your schedule changes or you crave something different, you can easily swap meals in your plan without disrupting your week.",
+      "📸 **Share your meal plans with friends**: Export your meal plans or share them directly with friends and family. Inspire others by sharing your healthy eating habits or exchanging ideas for new dishes.",
+      "🍰 **Post pictures and recipes of your healthy desserts**: Keep your meals exciting by sharing creative and nutritious dessert ideas. Post pictures and recipes of your healthy creations in the app’s community section, inspiring others to join the journey.",
+    ],
+    createdAt: "2024-10-10T15:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 6,
+    title: "Focus on wellness and balance",
+    shortContent: [
+      "🧘‍♂️ Achieve wellness and balance through mindfulness, fitness, and mental health support.",
+    ],
+    longContent: [
+      "💆‍♀️ **Explore meditation and relaxation techniques**: Learn practices such as mindfulness meditation, deep breathing exercises, and progressive muscle relaxation. These techniques are designed to reduce stress, improve your mental clarity, and promote a sense of peace and relaxation.",
+      "📖 **Read articles on mental health and wellness**: Access a variety of expertly curated articles that cover topics like stress management, sleep hygiene, emotional resilience, and holistic approaches to wellness. Gain insights into how physical health and mental well-being are interconnected.",
+      "💪 **Discover workouts that promote both physical and mental health**: Engage in fitness routines that are designed to boost both your body and mind. From yoga and pilates to strength training and cardio, these workouts help improve not just your physical health, but also your mental clarity and emotional stability.",
+      "🌱 **Find resources for a holistic lifestyle**: Explore resources on topics like natural remedies, the benefits of mindfulness in daily life, and how to integrate a holistic approach to wellness. Learn how to nurture not just your physical health, but also your mental, emotional, and spiritual well-being.",
+      "🗓️ **Set wellness goals alongside fitness goals**: Achieve balance by setting both mental and physical health goals. Whether it's improving flexibility, reducing anxiety, or maintaining mental clarity, the app helps you monitor and achieve these goals through integrated tracking.",
+      "📊 **Track your mental wellness progress**: Keep a detailed record of your mental wellness journey. Track your moods, emotions, and stress levels over time to gain insights into how various factors, like sleep, nutrition, and exercise, impact your mental health.",
+      "👥 **Join community groups focused on wellness**: Participate in online community groups and forums where like-minded individuals share experiences, advice, and encouragement. Support others in their wellness journeys while receiving guidance from experienced wellness coaches and therapists.",
+      "🏕️ **Participate in retreats and wellness events**: Explore upcoming wellness retreats, workshops, and events in your area that focus on promoting mental clarity, balance, and relaxation. These events are designed to help participants disconnect from daily stressors and focus on holistic wellness.",
+      "🌸 **Share your wellness journey with others**: Inspire and encourage others by sharing your progress, challenges, and achievements in the community. Receive motivation and support from friends and wellness experts as you work toward achieving balance in your life.",
+    ],
+    createdAt: "2024-10-09T13:45:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 7,
+    title: "Satisfy your sweet tooth healthily",
+    shortContent: [
+      "🍰 Enjoy your desserts without guilt with healthy, nutritious recipes.",
+    ],
+    longContent: [
+      "🍫 **Discover healthier dessert recipes**: Explore a wide variety of dessert recipes that offer delicious alternatives to high-sugar, high-fat options. From low-sugar brownies to gluten-free cakes, these recipes satisfy your cravings while maintaining your health goals.",
+      "🥕 **Learn to bake with whole ingredients**: Swap refined sugars and processed ingredients with wholesome, natural alternatives. Learn how to incorporate ingredients like oats, fruits, nuts, and seeds into your baking for more nutritious, guilt-free desserts.",
+      "🍨 **Explore low-calorie alternatives for your favorite treats**: Try lighter versions of your favorite indulgences, like frozen yogurt, chia seed pudding, or fruit-based sorbets, that offer the same satisfaction without compromising on flavor or nutrition.",
+      "🧁 **Get tips on portion control with desserts**: Master the art of mindful eating by learning portion control techniques. Enjoying desserts in moderation allows you to indulge without overindulging, and the app provides portion guides for popular treats.",
+      "🍎 **Use fruits as natural sweeteners**: Replace refined sugars with natural sweeteners like bananas, dates, apples, and other fruits to enhance both the flavor and nutritional profile of your desserts. Learn how to use these fruits in various recipes to make desserts healthier and more nutrient-dense.",
+      "🎂 **Plan desserts that fit your nutrition goals**: Enjoy delicious treats that align with your dietary needs and fitness goals. Whether you’re following a low-carb, gluten-free, or vegan diet, the app helps you plan desserts that fit into your overall nutrition plan.",
+      "📚 **Read about the science of sugar and its alternatives**: Understand how various types of sugars and sugar alternatives, like honey, agave syrup, and stevia, affect your body. Learn the pros and cons of each and make informed decisions about how to sweeten your meals healthily.",
+      "🎉 **Host healthy dessert parties with friends**: Share the joy of healthy eating by organizing dessert parties where everyone brings a healthy sweet treat. It’s a great way to introduce friends to healthier dessert options while enjoying a fun social activity.",
+      "🤤 **Share your dessert creations in our community**: Post pictures and recipes of your healthy dessert creations in the app's community section. Get feedback, share tips, and inspire others to try healthier alternatives to traditional sugary treats.",
+    ],
+    createdAt: "2024-10-10T15:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 8,
+    title: "Understanding food labels",
+    shortContent: [
+      "🍽️ Learn how to read and interpret food labels effectively.",
+    ],
+    longContent: [
+      "🔍 **Learn how to read and interpret nutrition labels**: Gain a clear understanding of food labels, including how to identify serving sizes, ingredient lists, and nutritional facts. This knowledge helps you make better-informed choices about the foods you consume.",
+      "⚖️ **Understand serving sizes and portion control**: Understand how serving sizes are listed on food labels and how they relate to the actual portions you eat. This helps you track your caloric intake and macronutrient consumption more accurately.",
+      "🚫 **Identify hidden sugars and unhealthy ingredients**: Learn how to spot hidden sugars, artificial additives, and other unhealthy ingredients in processed foods. This information helps you avoid products that may seem healthy but are loaded with unhealthy components.",
+      "🌱 **Compare products for healthier choices**: Use your knowledge of food labels to compare different products and choose the healthiest option. The app provides tips on what to look for in terms of fat content, sodium levels, added sugars, and fiber.",
+      "📊 **Track your macro and micronutrients effectively**: Leverage food labels to keep a precise record of your macronutrient (proteins, carbs, fats) and micronutrient (vitamins, minerals) intake. This ensures that you’re meeting your daily nutritional requirements.",
+      "🛒 **Make informed choices while grocery shopping**: Navigate the grocery store with confidence, knowing exactly what to look for on food labels. Learn how to pick products that align with your health and nutrition goals.",
+      "📖 **Access resources on food regulations**: Stay informed about the latest food labeling regulations and how they impact your food choices. The app provides updates on changes in labeling laws and what they mean for consumers.",
+      "🥦 **Discover the impact of food labeling on health**: Learn how accurate food labeling can play a vital role in promoting better public health outcomes. Understand the importance of transparency in food labeling for making healthier choices.",
+      "💡 **Get tips for healthier snacking**: Apply your newfound knowledge of food labels to find healthier snacks that fit your diet. The app provides snack suggestions that are both nutritious and satisfying.",
+    ],
+    createdAt: "2024-10-11T15:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 9,
+    title: "The benefits of plant-based eating",
+    shortContent: [
+      "🌿 Learn about the health and environmental benefits of plant-based eating.",
+    ],
+    longContent: [
+      "🥦 **Discover the health benefits of a plant-based diet**: Explore the wide-ranging health benefits of eating more plant-based foods, including improved heart health, better digestion, and lower risk of chronic diseases like diabetes and hypertension.",
+      "🍇 **Learn to prepare delicious plant-based meals**: Discover a variety of plant-based recipes that are both tasty and nutritious. From hearty lentil soups to flavorful vegetable curries, these recipes make plant-based eating easy and enjoyable.",
+      "🥗 **Understand the nutritional aspects of plant foods**: Learn about the important vitamins, minerals, and nutrients found in plant foods, and how they contribute to overall health. Understand how to balance macronutrients in a plant-based diet to ensure you’re getting enough protein, fats, and carbohydrates.",
+      "🌾 **Explore the environmental benefits of plant-based eating**: Understand how shifting to a plant-based diet can significantly reduce your carbon footprint and contribute to a more sustainable food system. The app provides insights on the environmental impact of different foods.",
+      "🌱 **Find local plant-based restaurants and markets**: Discover nearby restaurants and markets that offer plant-based options, making it easier to maintain a plant-based lifestyle even when dining out or shopping.",
+      "🍳 **Experiment with plant-based alternatives for your favorite dishes**: Learn how to replace animal-based ingredients with plant-based alternatives in your favorite meals. Whether it’s swapping meat for tofu or using dairy-free milk, the app provides plenty of substitution ideas.",
+      "📚 **Read success stories from plant-based eaters**: Gain inspiration from real-life success stories of people who have improved their health, fitness, and well-being by adopting a plant-based lifestyle. Learn from their journeys and get practical tips for making the transition.",
+      "🥕 **Join community events focused on plant-based living**: Participate in events like plant-based cooking classes, grocery store tours, and food festivals. These community events provide support, education, and a chance to meet others on the same journey.",
+      "💡 **Get tips for transitioning to a plant-based lifestyle**: Whether you’re just starting out or looking to fully commit to a plant-based diet, the app offers tips and resources for making the transition as smooth as possible.",
+    ],
+    createdAt: "2024-10-12T16:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 10,
+    title: "Tracking your food intake effectively",
+    shortContent: ["📊 Tracking your food intake effectively."],
+    longContent: [
+      "📖 **Learn how to log your food accurately**: Bắt đầu bằng cách chọn một phương pháp mà bạn thấy thoải mái, có thể là một cuốn sổ tay, một ứng dụng, hoặc một bảng tính. Ghi lại tất cả các món ăn, đồ uống và bữa ăn nhẹ bạn tiêu thụ trong suốt cả ngày, bao gồm cả số lượng.",
+      "📱 **Use our app for seamless tracking**: Có nhiều ứng dụng miễn phí và trả phí như MyFitnessPal, Cronometer hay Lose It! giúp bạn dễ dàng theo dõi lượng calo và dinh dưỡng. Chọn một ứng dụng có giao diện thân thiện và dễ sử dụng để duy trì thói quen.",
+      "📈 **Analyze your eating habits over time**: Thực hiện kiểm tra hàng tuần hoặc hàng tháng để xem xét thói quen ăn uống của bạn. Xem xét tỷ lệ carbohydrate, protein, chất béo và các vitamin, khoáng chất bạn đã tiêu thụ, từ đó có thể điều chỉnh chế độ ăn uống cho hợp lý.",
+      "💪 **Identify areas for improvement in your diet**: Sử dụng các báo cáo từ ứng dụng để phát hiện những thực phẩm bạn tiêu thụ quá mức hoặc không đủ. Nếu bạn thường ăn nhiều đường, hãy tìm cách giảm dần và thay thế bằng các loại thực phẩm lành mạnh hơn.",
+      "📅 **Set reminders to log your meals**: Sử dụng tính năng thông báo trên điện thoại để nhắc nhở bạn ghi lại bữa ăn. Bạn có thể đặt nhắc nhở vào thời gian cụ thể, chẳng hạn như sau mỗi bữa ăn hoặc vào cuối ngày để đảm bảo bạn không quên.",
+      "📝 **Keep a daily food journal for better awareness**: Bên cạnh việc ghi lại thức ăn, hãy viết ra cảm xúc, cảm giác thèm ăn, và bối cảnh bạn ăn (có thể là trong khi làm việc, xem TV, v.v.). Điều này sẽ giúp bạn nhận diện thói quen ăn uống cảm xúc.",
+      "🤝 **Share tips with friends on effective tracking**: Kết nối với bạn bè qua các nhóm mạng xã hội hoặc diễn đàn sức khỏe để chia sẻ kinh nghiệm, mẹo và động lực. Hãy khuyến khích nhau và chia sẻ những thành tựu nhỏ để duy trì động lực.",
+      "📚 **Read about common tracking mistakes and how to avoid them**: Tìm hiểu những sai lầm phổ biến như quên ghi lại đồ uống, ước lượng sai lượng thức ăn, hoặc chỉ tập trung vào calo mà bỏ qua chất lượng dinh dưỡng. Hãy đọc các bài viết từ chuyên gia dinh dưỡng để có cái nhìn đúng đắn.",
+      "🎯 **Set personalized tracking goals based on your lifestyle**: Đặt ra các mục tiêu thực tế mà bạn có thể đạt được, chẳng hạn như giảm 500 calo mỗi ngày, tăng cường protein trong bữa ăn hoặc thử một loại thực phẩm mới mỗi tuần. Ghi chú lại để dễ dàng theo dõi tiến độ của bạn.",
+    ],
+    createdAt: "2024-10-13T17:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 11,
+    title: "Hydration for health and wellness",
+    shortContent: ["🍉 Hydration for health and wellness."],
+    longContent: [
+      "💧 **Understand the importance of hydration**: Nước chiếm khoảng 60% cơ thể người. Nó không chỉ giúp duy trì nhiệt độ cơ thể mà còn hỗ trợ chức năng thận, tiêu hóa, và lưu thông máu. Thiếu nước có thể dẫn đến mệt mỏi, nhức đầu và các vấn đề sức khỏe nghiêm trọng khác.",
+      "🥤 **Discover creative ways to increase your water intake**: Thêm hương vị cho nước bằng cách sử dụng trái cây tươi, thảo mộc như bạc hà hoặc gừng. Bạn cũng có thể thử trà lạnh hoặc nước chanh để làm tăng cảm giác muốn uống nước.",
+      "🍵 **Learn about the benefits of herbal teas**: Trà thảo mộc không chỉ giúp bạn thư giãn mà còn bổ sung nước. Nhiều loại trà còn có tác dụng kháng viêm, giúp tiêu hóa và hỗ trợ hệ miễn dịch.",
+      "🍋 **Explore infused water recipes for flavor**: Thử nghiệm với các công thức nước ngâm như chanh-mâm xôi, dưa hấu-bạc hà, hoặc cam-hương thảo. Điều này không chỉ tăng thêm hương vị mà còn làm bạn cảm thấy thích thú hơn với việc uống nước.",
+      "🏋️‍♀️ **Find out how hydration affects your performance**: Nước đóng vai trò quan trọng trong việc cung cấp năng lượng và phục hồi sau tập luyện. Thiếu nước có thể làm giảm sức bền, ảnh hưởng đến sự tập trung và làm chậm quá trình hồi phục.",
+      "📅 **Set hydration goals to meet your needs**: Một mục tiêu tốt có thể là uống ít nhất 2 lít nước mỗi ngày, hoặc nhiều hơn nếu bạn hoạt động nhiều. Theo dõi lượng nước bạn uống hàng ngày và cố gắng đạt được mục tiêu này.",
+      "📝 **Keep track of your daily water consumption**: Sử dụng ứng dụng hoặc bảng theo dõi để ghi lại lượng nước bạn đã uống. Một số ứng dụng còn cho phép bạn đặt mục tiêu và nhắc nhở bạn uống nước thường xuyên.",
+      "💦 **Learn the signs of dehydration**: Các dấu hiệu như khát nước, nước tiểu có màu vàng sẫm, miệng khô, và cảm thấy mệt mỏi có thể cho thấy bạn cần bổ sung nước ngay lập tức. Nếu bạn cảm thấy choáng váng, hãy uống nước ngay lập tức.",
+      "🌊 **Join community challenges focused on hydration**: Tham gia các thử thách cộng đồng giúp khuyến khích bạn và bạn bè uống đủ nước. Bạn có thể tạo một nhóm nhỏ và cùng nhau đặt mục tiêu, chia sẻ tiến độ và động viên nhau.",
+    ],
+    createdAt: "2024-10-14T18:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+  {
+    id: 12,
+    title: "Discover the power of protein",
+    shortContent: ["🍗 Discover the power of protein."],
+    longContent: [
+      "🍳 **Learn about different sources of protein**: Protein có mặt trong nhiều loại thực phẩm, từ thịt, cá, trứng đến các nguồn thực vật như đậu, hạt, và sản phẩm từ sữa. Hiểu rõ các nguồn protein sẽ giúp bạn lên kế hoạch bữa ăn hợp lý hơn.",
+      "💪 **Understand the role of protein in muscle building**: Protein giúp cơ thể sửa chữa và phát triển cơ bắp. Đặc biệt, sau khi tập thể dục, việc tiêu thụ protein giúp phục hồi cơ bắp và tăng cường sức mạnh.",
+      "🥙 **Explore protein-rich recipes for every meal**: Tìm kiếm các công thức nấu ăn giàu protein cho từng bữa ăn, từ bữa sáng như trứng ốp la, đến bữa trưa với salad gà nướng và bữa tối với cá hồi nướng.",
+      "🥩 **Discover plant-based protein alternatives**: Những nguồn protein thực vật như đậu lăng, quinoa, và đậu hũ không chỉ giàu dinh dưỡng mà còn thân thiện với môi trường. Tìm hiểu cách sử dụng chúng trong chế độ ăn hàng ngày.",
+      "📖 **Read success stories of athletes and fitness enthusiasts**: Đọc về những người đã thành công trong việc cải thiện sức khỏe và thể hình nhờ vào việc tăng cường protein trong chế độ ăn. Những câu chuyện này có thể truyền cảm hứng cho bạn.",
+      "📈 **Track your protein intake effectively**: Ghi lại lượng protein bạn tiêu thụ hàng ngày để đảm bảo bạn đang nhận đủ lượng cần thiết. Bạn có thể sử dụng ứng dụng để theo dõi dễ dàng hơn.",
+      "💡 **Get tips for optimizing protein consumption**: Tìm hiểu về thời điểm tốt nhất để tiêu thụ protein, chẳng hạn như ngay sau khi tập luyện, và cách phân chia lượng protein trong các bữa ăn trong ngày.",
+      "📅 **Plan protein-rich meal preps**: Lên kế hoạch cho các bữa ăn hàng tuần với các món ăn giàu protein. Chuẩn bị sẵn các bữa ăn giúp bạn tiết kiệm thời gian và đảm bảo bạn luôn có sẵn thức ăn lành mạnh.",
+      "👥 **Share your favorite protein-packed meals in our community**: Kết nối với cộng đồng để chia sẻ công thức và trải nghiệm về các món ăn giàu protein, từ đó nhận được phản hồi và ý tưởng mới.",
+    ],
+    createdAt: "2024-10-15T19:00:00Z",
+    image:
+      "https://cdn.tgdd.vn/2022/09/CookDish/kep-gap-do-nong-la-gi-co-bao-nhieu-loai-nen-mua-khong-avt-1200x676-1.jpg",
+  },
+];
